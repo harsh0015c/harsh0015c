@@ -130,7 +130,7 @@ I'm an **AI-focused Computer Science undergraduate** who builds complete, produc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0015c&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=harsh0015c&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ---
