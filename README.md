@@ -125,11 +125,6 @@ I'm an **AI-focused Computer Science undergraduate** who builds complete, produc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0015c&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0015c&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=harsh0015c&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
