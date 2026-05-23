@@ -113,16 +113,6 @@ I'm an **AI-focused Computer Science undergraduate** who builds complete, produc
 
 ---
 
-## 💼 Experience
-
-**AI / ML Intern — Online Data Systems** *(Jul 2025 – Sep 2025)*
-- Optimized ML models for large-scale dataset processing → **10% performance improvement**
-- Built Python automation pipelines → **15% reduction in manual workload**
-- Collaborated with cross-functional teams on AI-driven business solutions
-- Awarded ⭐ **"Excellent"** performance rating
-
----
-
 ## 📜 Certifications
 
 - 🤖 **AI Agents & Agentic AI with Python & GenAI** — Vanderbilt University / Coursera *(Feb 2026)*
